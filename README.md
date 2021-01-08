@@ -9,6 +9,8 @@
 </tr>
 
 </table>
+
+
 ## It is a product for Attendance automation using Speaker Recognition
 
 It uses voice recognition for individual speakers and automatically increments the attendance into the CSV file.
