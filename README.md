@@ -1,7 +1,14 @@
 # SpeakerRecognition for Attendance
 
 ## RESULTS
+<table>
+<tr>
+    <td><img src="images/1.png"></td>
+    <td><img src="images/2.png" ></td>
+    <td><img src="images/3.png"></td>
+</tr>
 
+</table>
 ## It is a product for Attendance automation using Speaker Recognition
 
 It uses voice recognition for individual speakers and automatically increments the attendance into the CSV file.
